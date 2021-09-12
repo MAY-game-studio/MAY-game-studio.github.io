@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 视觉小说《洛兰绽放之时》试玩版介绍与发布预告
+title: 视觉小说《洛兰绽放之时》试玩版介绍
 ---
 
 ## 作品简介
@@ -29,12 +29,14 @@ title: 视觉小说《洛兰绽放之时》试玩版介绍与发布预告
 
 当回忆与现实交织，未来与过往重逢，《洛兰绽放之时》，正式开场。
 
-![NQ](./img/NQ.png)
+![NQ](./img/NQ.jpg)
 
 "*没有啦其实，诺琪点子相当的多，完全可以称得上是聪明……只是一般她不会在和魔法有关的事情上认真起来。她每天总能充满热情大概是因为总能找到新鲜的事物吧，反正跟魔法没关系就是啦。*"
 <p align='right'>——魔法事务所店主「琴伊」</p>
 
 -----
+
+## STAFF
 
 游戏名称：洛兰绽放之时
 
@@ -44,11 +46,11 @@ title: 视觉小说《洛兰绽放之时》试玩版介绍与发布预告
 
 人设·原画：clowny        场景·原画：CuSO4
 
-音乐：李迈克Michael    Cloudland    老硒
+音乐：迈可Michael    Cloudland    老硒
 
 程序：鸽者
 
-UI设计：鹿与疾风
+UI设计：Double    鹿与疾风
 
 监制：老硒
 
@@ -58,7 +60,7 @@ UI设计：鹿与疾风
 
 -----
 
-+ [内部试玩版下载](./game/Just kidding.txt)
-  该版本为未完成版，仅供内部制作人员参考
++ [内部试玩版下载](https://github.com/MAY-game-studio/Loraines_when_they_shine/releases/download/alpha-0.1.0/LorainesWhenTheyShine-1.0-pc.zip)
+  **该版本为未完成版，仅供内部制作人员参考**
 
 + [返回主页](./)
