@@ -58,9 +58,8 @@ UI设计：Double    鹿与疾风
 
 ![WLDM](./img/WLDM.png)
 
------
+May组是爱好者团队，我们所有组员也都是第一次尝试制作视觉小说。《洛兰绽放之时》与大家耳熟能详的商业作品相比一定会存在许多的不足，我们期待大家在体验试玩版后向我们给出反馈与建议，也期待听到大家的支持与鼓励！
 
-+ [内部试玩版下载](https://github.com/MAY-game-studio/Loraines_when_they_shine/releases/download/alpha-0.1.0/LorainesWhenTheyShine-1.0-pc.zip)
-  **该版本为未完成版，仅供内部制作人员参考**
+-----
 
 + [返回主页](./)
